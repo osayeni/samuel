@@ -12177,3 +12177,4 @@ Already up to date.
 [INFO 2024-10-17_21:06:40] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-feranmilastesttml-00f8.py
 [INFO 2024-10-17_21:06:46] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-feranmilastesttml-00f8.py
 [INFO 2024-10-17_21:06:52] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-feranmilastesttml-00f8.py
+[INFO 2024-10-17_21:06:57] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-feranmilastesttml-00f8.py

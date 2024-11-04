@@ -12252,3 +12252,4 @@ origin	https://<personal access token hidden>@github.com/osayeni/samuel.git (pus
 [INFO 2024-11-04_19:53:25] Visualization DAG in tml_system_step_7_kafka_visualization_dag-myawesometmlprojectnew-00f8.py
 [INFO 2024-11-04_19:53:39] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-myawesometmlprojectnew-00f8.py
 [INFO 2024-11-04_19:54:41] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-myawesometmlprojectnew-00f8.py
+[ERROR 2024-11-04_20:03:05] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-myawesometmlprojectnew-00f8.py 'StreamTopicDetails'

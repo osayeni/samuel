@@ -12243,3 +12243,4 @@ branch.main.merge=refs/heads/main
 [INFO 2024-11-04_19:45:46] TML Solution Studio: Github Remote Status: origin	https://github.com/osayeni/samuel (fetch)
 origin	https://<personal access token hidden>@github.com/osayeni/samuel.git (push)
 [INFO 2024-11-04_19:52:49] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-myawesometmlprojectnew-00f8.py
+[INFO 2024-11-04_19:52:53] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-myawesometmlprojectnew-00f8.py

@@ -12303,3 +12303,4 @@ Already up to date.
 [INFO 2024-11-07_00:06:40] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
 [INFO 2024-11-07_00:06:47] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
 [INFO 2024-11-07_00:07:16] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-Project2Fresh-00f8.py
+[ERROR 2024-11-07_00:07:17] ERROR: Cannot connect to MQTT broker in tml_read_MQTT_step_3_kafka_producetotopic_dag-Project2Fresh-00f8.py - invalid literal for int() with base 10: ''

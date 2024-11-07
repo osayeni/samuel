@@ -12347,3 +12347,4 @@ origin	https://<personal access token hidden>@github.com/osayeni/samuel.git (pus
 [INFO 2024-11-07_15:59:19] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-NewProject2-00f8.py
 [INFO 2024-11-07_15:59:21] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-NewProject2-00f8.py
 [INFO 2024-11-07_15:59:24] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-NewProject2-00f8.py
+[INFO 2024-11-07_15:59:31] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-NewProject2-00f8.py

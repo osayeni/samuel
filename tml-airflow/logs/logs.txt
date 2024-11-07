@@ -12301,3 +12301,4 @@ Already up to date.
 [INFO 2024-11-07_00:06:17] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
 [INFO 2024-11-07_00:06:24] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
 [INFO 2024-11-07_00:06:40] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
+[INFO 2024-11-07_00:06:47] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-Project2Fresh-00f8.py
